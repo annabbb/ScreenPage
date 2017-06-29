@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlayMe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_charts">Top charts</string>
+    <string name="top_songs">Top songs</string>
+</resources>
